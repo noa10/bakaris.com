@@ -1,0 +1,21 @@
+[01-Oct-2016 14:46:03 America/Chicago] PHP Fatal error:  Call to a member function delete() on null in /home/bakar/public_html/members/admin/configproducts.php on line 0
+[01-Oct-2016 14:46:10 America/Chicago] PHP Fatal error:  Call to a member function delete() on null in /home/bakar/public_html/members/admin/configproducts.php on line 0
+[22-Oct-2016 13:23:33 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/bakar/public_html/members/configuration.php on line 11
+[22-Oct-2016 13:23:53 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/bakar/public_html/members/configuration.php on line 11
+[22-Oct-2016 13:23:58 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/bakar/public_html/members/configuration.php on line 11
+[22-Oct-2016 13:24:01 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/bakar/public_html/members/configuration.php on line 11
+[22-Oct-2016 13:24:04 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/bakar/public_html/members/configuration.php on line 11
+[23-Nov-2016 01:25:20 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:25:27 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:25:34 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:25:34 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:25:55 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:26:01 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:26:05 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:26:06 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:26:13 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:27:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:27:09 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[23-Nov-2016 01:27:12 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '"); //this should be comma sep' (T_CONSTANT_ENCAPSED_STRING) in /home/bakar/public_html/members/modules/addons/weeblycloud/library/config.php on line 28
+[05-Dec-2016 00:08:49 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'Terminus' not found in /home/bakar/public_html/members/admin/clientsprofile.php on line 0
+[05-Dec-2016 00:08:52 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'Terminus' not found in /home/bakar/public_html/members/admin/clientsprofile.php on line 0

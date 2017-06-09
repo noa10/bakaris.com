@@ -1,0 +1,25 @@
+#top-box {
+	background-color: #0353A4!important;
+	color: white;
+}
+
+#top-box ul > li > a{
+	-webkit-transition: color 0.25s ease;
+            transition: color 0.25s ease;
+}
+
+#top-box ul > li > a:hover {
+	color: #3499FF!important;
+}
+
+.slogan a {
+	margin-left: 10px;
+	-webkit-transition: color 0.25s ease;
+            transition: color 0.25s ease;
+}
+
+.slogan > a:hover {
+	color: #3499FF!important;
+}
+
+

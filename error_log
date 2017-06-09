@@ -1,0 +1,63 @@
+[03-Dec-2016 22:52:29 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'PHPMailer' not found in /home/bakar/public_html/sendmail.php on line 32
+[03-Dec-2016 22:52:32 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'PHPMailer' not found in /home/bakar/public_html/sendmail.php on line 32
+[03-Dec-2016 23:00:00 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 2
+[03-Dec-2016 23:00:00 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 2
+[03-Dec-2016 23:00:00 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 2
+[03-Dec-2016 23:00:03 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 2
+[03-Dec-2016 23:00:03 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 2
+[03-Dec-2016 23:00:03 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 2
+[03-Dec-2016 23:00:05 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 2
+[03-Dec-2016 23:00:05 Asia/Kuala_Lumpur] PHP Warning:  require(PHPMailerAutoload.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 2
+[03-Dec-2016 23:00:05 Asia/Kuala_Lumpur] PHP Fatal error:  require(): Failed opening required 'PHPMailerAutoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 2
+[04-Dec-2016 15:07:14 Asia/Kuala_Lumpur] PHP Warning:  mail() has been disabled for security reasons in /home/bakar/public_html/samplemail.php on line 32
+[04-Dec-2016 15:08:02 Asia/Kuala_Lumpur] PHP Warning:  mail() has been disabled for security reasons in /home/bakar/public_html/samplemail.php on line 32
+[04-Dec-2016 15:08:07 Asia/Kuala_Lumpur] PHP Warning:  mail() has been disabled for security reasons in /home/bakar/public_html/samplemail.php on line 32
+[04-Dec-2016 15:09:01 Asia/Kuala_Lumpur] PHP Warning:  mail() has been disabled for security reasons in /home/bakar/public_html/samplemail.php on line 32
+[04-Dec-2016 15:09:05 Asia/Kuala_Lumpur] PHP Warning:  mail() has been disabled for security reasons in /home/bakar/public_html/samplemail.php on line 32
+[04-Dec-2016 15:10:33 Asia/Kuala_Lumpur] PHP Warning:  mail() has been disabled for security reasons in /home/bakar/public_html/samplemail.php on line 32
+[04-Dec-2016 15:22:54 Asia/Kuala_Lumpur] PHP Warning:  mail() has been disabled for security reasons in /home/bakar/public_html/samplemail.php on line 32
+[04-Apr-2017 22:19:29 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:29 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:34 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:34 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:36 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:36 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:39 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:39 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:41 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:41 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:43 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:43 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:45 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:45 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:47 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:47 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:49 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:19:49 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:16 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:16 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:18 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:18 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:20 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:20 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:22 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:22 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:24 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:24 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:26 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:26 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:29 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:29 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:31 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:31 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:33 Asia/Kuala_Lumpur] PHP Warning:  require_once(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 22:20:33 Asia/Kuala_Lumpur] PHP Fatal error:  require_once(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/bakar/public_html/sendmail.php on line 31
+[04-Apr-2017 23:11:27 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'Mailer' not found in /home/bakar/public_html/sendmail.php on line 33
+[04-Apr-2017 23:11:29 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'Mailer' not found in /home/bakar/public_html/sendmail.php on line 33
+[04-Apr-2017 23:11:53 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'Mailer' not found in /home/bakar/public_html/sendmail.php on line 33
+[04-Apr-2017 23:11:55 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'Mailer' not found in /home/bakar/public_html/sendmail.php on line 33
+[04-Apr-2017 23:12:11 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'Mailer' not found in /home/bakar/public_html/sendmail.php on line 33
+[04-Apr-2017 23:25:15 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'SMTP' not found in /home/bakar/public_html/phpmailer/class.phpmailer.php on line 1443
+[04-Apr-2017 23:25:19 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'SMTP' not found in /home/bakar/public_html/phpmailer/class.phpmailer.php on line 1443
+[04-Apr-2017 23:25:21 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'SMTP' not found in /home/bakar/public_html/phpmailer/class.phpmailer.php on line 1443
+[04-Apr-2017 23:25:49 Asia/Kuala_Lumpur] PHP Fatal error:  Class 'SMTP' not found in /home/bakar/public_html/phpmailer/class.phpmailer.php on line 1443
